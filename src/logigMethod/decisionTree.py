@@ -6,7 +6,6 @@ import numpy as np
 # функция разделения данных на тестовые и контрольные
 from sklearn.tree import DecisionTreeClassifier
 from sklearn.model_selection import train_test_split
-from sklearn.metrics import classification_report
 
 
 
